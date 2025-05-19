@@ -1,5 +1,29 @@
 # 💫 About Me:
-👋 About Me<br>     Hi there! I'm a passionate university student from Sri Lanka with a deep love for technology ⚙️, innovation 🚀 and team collaboration 🤝.<br><br>🛠️ What I'm Working On<br>     Simple x86 Operating System: Diving deep into the world of OS development 🖥️ and learning low-level programming 🧵.<br>     Nanoprocessor Design: Leading an exciting project with my team, Hashtag 🛠️, to design a nanoprocessor 🔬.<br><br>🎓 Past Achievements<br>     Successfully completed the Pintos Labs 🧑‍💻, gaining hands-on experience in operating systems 🖥️.<br>     Built a strong foundation 🏗️ in system-level programming and computer architecture 💾.<br><br>🧑‍💻 Interests<br>     Low-level programming: C, x86 Assembly 💻<br>     Operating system development ⚙️<br>     Image Processing 🖼️✨<br>     Hardware Design 🔧 and IoT 🌐<br><br>🙌 Thanks for Stopping By!<br>     Feel free to explore my repositories and connect with me! 🌟
+👋 About Me<br>
+Hi there!<br>
+I'm a passionate university student from Sri Lanka with a deep love for technology, innovation and collaborative problem-solving. I enjoy working on challenging low-level projects that push the boundaries of what I can create with code and hardware.<br>
+<br>
+
+🛠️ Current Projects<br>
+Hash x86 — A simple 32-bit x86 operating system I'm building from scratch to deepen my understanding of system internals, paging, multitasking and GUI design.<br>
+<br>
+
+🎓 Notable Achievements<br>
+✅ Designed and implemented a custom nanoprocessor as part of an academic research project 🔬<br>
+✅ Completed Pintos Labs, gaining practical experience with OS internals, threads, file systems and virtual memory 🧑‍💻<br>
+✅ Built a solid foundation in system-level programming, computer architecture and hardware-software integration<br>
+<br>
+
+🧑‍💻 Interests<br>
+🧠 Low-Level Programming — C, x86 Assembly<br>
+⚙️ Operating System Development<br>
+🖼️ GUI Frameworks — Custom UI engines in C/C++<br>
+✨ Image Processing & Graphics<br>
+🔧 Hardware Design & IoT Projects — Especially with microcontrollers and embedded systems<br>
+<br>
+
+🙌 Thanks for Stopping By!<br>
+Feel free to explore my repositories and connect with me! 🌟
 
 
 ## 🌐 Socials:
