@@ -9,9 +9,10 @@ I'm a passionate university student from Sri Lanka with a deep love for technolo
 <br>
 
 🎓 Notable Achievements<br>
+✅ Built my own minimalist operating system (Hashx86) from scratch with support for GUI, multitasking, ELF loading, paging, and VESA graphics 🧑‍💻<br>
 ✅ Designed and implemented a custom nanoprocessor as part of an academic research project 🔬<br>
-✅ Completed Pintos Labs, gaining practical experience with OS internals, threads, file systems and virtual memory 🧑‍💻<br>
-✅ Built a solid foundation in system-level programming, computer architecture and hardware-software integration<br>
+✅ Completed Pintos Labs, gaining practical experience with OS internals 🧑‍💻<br>
+✅ Built a solid foundation in system-level programming, computer architecture and hardware-software integration 🔧<br>
 <br>
 
 🧑‍💻 Interests<br>
