@@ -6,6 +6,7 @@ I'm a passionate university student from Sri Lanka with a deep love for technolo
 
 🛠️ Current Projects<br>
 [Hash x86](https://github.com/sdmdg/Hashx86/) — A simple 32-bit x86 operating system I'm building from scratch to deepen my understanding of system internals, paging, multitasking and GUI design.<br>
+[Build Your Own Operating System From Scratch](https://malakagunawardana.pages.dev/workshops/build-your-own-operating-system-from-scratch/) — A step-by-step tutorial series where I share my process, insights, and code for anyone who wants to create their own OS from the ground up.<br>
 <br>
 
 🎓 Notable Achievements<br>
