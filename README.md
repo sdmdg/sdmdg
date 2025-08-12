@@ -5,7 +5,7 @@ I'm a passionate university student from Sri Lanka with a deep love for technolo
 <br>
 
 🛠️ Current Projects<br>
-[Hash x86](https://malakagunawardana.pages.dev/projects/hash-x86) — A simple 32-bit x86 operating system I'm building from scratch to deepen my understanding of system internals, paging, multitasking and GUI design.<br>
+[Hash x86](https://github.com/sdmdg/Hashx86/) — A simple 32-bit x86 operating system I'm building from scratch to deepen my understanding of system internals, paging, multitasking and GUI design.<br>
 <br>
 
 🎓 Notable Achievements<br>
